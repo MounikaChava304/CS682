@@ -2,6 +2,8 @@
 
 This is the backend part of the entire project.
 
+To install node modules for this project, run the command --- npm install (after the node and npm is installed in the pc) in the Reantal-main folder.
+
 Config folder -- contains keys and passport required for validation and authorization of user login and register.
 Modal folder -- contains database schema files for the collections we user --- users table and properties table.
 
